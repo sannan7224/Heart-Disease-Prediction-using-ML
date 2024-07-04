@@ -19,10 +19,14 @@ The dataset utilized for identifying heart disease within the tests was sourced 
 # Data Preprocessing: 
 Effective data preprocessing is a crucial step in any machine learning project, as the quality of the input data significantly impacts the performance of the predictive models. In this project on heart disease prediction, several preprocessing tasks were undertaken to ensure the data was clean, consistent, and suitable for analysis:
 1.	Handling Imbalance Data:
+   
 o	Balancing: By balancing the dataset, you ensure that your model does not become biased towards the majority class and performs well across all classes. This leads to more reliable and fair predictions, especially in critical applications where the minority class is of particular interest.
-2.	Removing Duplicates and Outliers:
+
+3.	Removing Duplicates and Outliers:
+
+
 o	Duplicates: Duplicate records, which can distort the model's learning process, were identified and removed to ensure each data point was unique.
-3.	Standardizing and Normalizing Data:
+5.	Standardizing and Normalizing Data:
 o	Standardization: Numerical features were standardized to have a mean of zero and a standard deviation of one. This process ensured that the data was on a similar scale, which is particularly important for algorithms that rely on distance measurements.
 o	Normalization: Alternatively, normalization was applied to scale the numerical data within a specific range, typically between 0 and 1. This helped in speeding up the convergence of gradient-based algorithms.
  
