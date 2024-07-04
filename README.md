@@ -7,7 +7,7 @@ Heart disease remains one of the leading causes of mortality worldwide, posing s
 Our methodology follows a structured pipeline to ensure comprehensive and effective model development:
 
 ### 1. Data Acquisition
-The dataset used for identifying heart disease was sourced from the Kaggle platform and can be accessed at [Kaggle Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset). It comprises 1000 samples with 16 features, and experts labeled this two-class dataset based on whether patients had heart disease or not.
+The dataset used for identifying heart disease was sourced from the Kaggle platform. It comprises 1000 samples with 16 features, and experts labeled this two-class dataset based on whether patients had heart disease or not.
 
 ### 2. Data Preprocessing
 Data preprocessing is crucial in transforming raw data into a clean and usable format. This involves:
