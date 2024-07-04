@@ -23,9 +23,10 @@ Exploratory Data Analysis (EDA) involves investigating datasets to summarize the
 
 - **Visualizing Data**: Using histograms, scatter plots, box plots, and other charts to identify trends, distributions, and outliers.
 - **Summary Statistics**: Calculating mean, median, and standard deviation to describe central tendency and variability.
+- **Correlation Analysis**: Evaluating the relationships between different features using correlation matrices and heatmaps to identify highly correlated features.
+- **Distribution Analysis**: Checking the distribution of key features such as smoking, age etcto understand their impact on heart disease .
 
 EDA helps make informed decisions about data cleaning, feature selection, and the appropriate analytical methods to use, leading to more accurate and robust results.
-
 ### 4. Feature Engineering
 Feature engineering enhances model performance by creating new features that better represent the underlying patterns in the data. Techniques used include:
 
